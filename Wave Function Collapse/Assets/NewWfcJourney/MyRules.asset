@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b384da0c6eff1d428dc42036df3ea2d, type: 3}
+  m_Name: MyRules
+  m_EditorClassIdentifier: 
+  RulesList:
+  - Id: 0
+    tileConfig: {fileID: 2663948409169362467, guid: aed98fd6852564f45a4f489ec361a10b,
+      type: 3}
+    Up: 1f000000
+    Right: 09000000
+    Down: 0a000000
+    Left: 1f000000
+  - Id: 1
+    tileConfig: {fileID: 2759421224403723974, guid: 4836c01358bd18d4ba24a0ca75bda613,
+      type: 3}
+    Up: 1f000000
+    Right: 1f000000
+    Down: 0b000000
+    Left: 09000000
+  - Id: 2
+    tileConfig: {fileID: 1677787055601189764, guid: 5ab78643f3b293e44af287e2c1f59d4d,
+      type: 3}
+    Up: 0a000000
+    Right: 08000000
+    Down: 1f000000
+    Left: 1f000000
+  - Id: 3
+    tileConfig: {fileID: 8926847277715888471, guid: 36bbd2b47be8f3e48874de821cdd3053,
+      type: 3}
+    Up: 0b000000
+    Right: 1f000000
+    Down: 1f000000
+    Left: 08000000
+  - Id: 9
+    tileConfig: {fileID: 8335164797288476588, guid: fc0106925ef354a40ae0d3c427523e26,
+      type: 3}
+    Up: 1f000000
+    Right: 0900000001000000
+    Down: 0f000000
+    Left: 0000000009000000
+  - Id: 31
+    tileConfig: {fileID: 2818550746296223517, guid: fb4c9ee0e95beac4f983eea02e1defba,
+      type: 3}
+    Up: 1f000000030000000800000002000000
+    Right: 1f000000020000000a00000000000000
+    Down: 1f000000000000000900000001000000
+    Left: 1f000000010000000b00000003000000
+  - Id: 8
+    tileConfig: {fileID: 7248730734864986028, guid: 3c7963a6e16cdc64ab567b7794df4482,
+      type: 3}
+    Up: 0f000000
+    Right: 0800000003000000
+    Down: 1f000000
+    Left: 0200000008000000
+  - Id: 11
+    tileConfig: {fileID: 3761568028053767001, guid: ad94b91b1d7dfe244a362aee9afd03a8,
+      type: 3}
+    Up: 010000000b000000
+    Right: 1f000000
+    Down: 0b00000003000000
+    Left: 0f000000
+  - Id: 10
+    tileConfig: {fileID: 6358226944667113193, guid: ee08dd8bd66c5ee42ba693ba136b7b8a,
+      type: 3}
+    Up: 000000000a000000
+    Right: 0f000000
+    Down: 0a00000002000000
+    Left: 1f000000
+  - Id: 15
+    tileConfig: {fileID: 2734090463164639327, guid: 788b61137c94a91468fea1fbb261d638,
+      type: 3}
+    Up: 090000000f000000
+    Right: 0f0000000b000000
+    Down: 0f00000008000000
+    Left: 0a0000000f000000
